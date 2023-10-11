@@ -34,4 +34,26 @@
     - [ ] graduate member vs alumni member vs graduated member
         - [x] graduated member
 - [x] json file
-    - 
+    - [x] no ambiguity for honorary membership
+- [x] rgb colors hex
+    - [x] light/darker varient 
+    - [x] removing grey as primary color
+- [x] Eva honorary membership
+    - [x] vote on that later with whole society
+    - [ ] who is Eva?
+        - [ ] president for two years
+        - [ ] helped out wolves much
+- [x] order of replacement of officers
+    - [x] vp become president
+    - [x] secretary become vp
+    - [x] minor officers
+        - [x] runner up from previous election
+        - [x] new president nominates and officer crew votes
+        - [ ] new president chooses other officers
+- [ ] purpose statement
+
+### Traditions
+- Feliz Navida
+- The wolves only recognise one tradition
+- JSON file
+- Applause for the wolf of the week should last exactly 15 seconds
