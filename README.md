@@ -36,7 +36,7 @@
 - [x] json file
     - [x] no ambiguity for honorary membership
 - [x] rgb colors hex
-    - [x] light/darker varient 
+    - [x] light/darker variant 
     - [x] removing grey as primary color
 - [x] Eva honorary membership
     - [x] vote on that later with whole society
@@ -44,13 +44,14 @@
         - [ ] president for two years
         - [ ] helped out wolves much
 - [x] order of replacement of officers
-    - [x] vp become president
-    - [x] secretary become vp
+    - [x] vice-president become president
+    - [x] secretary become vice-president
     - [x] minor officers
         - [x] runner up from previous election
         - [x] new president nominates and officer crew votes
         - [ ] new president chooses other officers
-- [ ] purpose statement
+- [x] purpose statement
+    - [x] rhys version probably?
 
 ### Traditions
 - Feliz Navida
