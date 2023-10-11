@@ -1,0 +1,37 @@
+# Town Hall
+- 10 Oct 2023
+- reworking constitution
+- 7 members present
+
+## Changes
+- [x] Remove SGT
+    - [x] remove sgt
+    - [x] remove stg
+    - [x] remove historian
+- [x] Graduating seniors run election
+    - [x] president chooses one
+- [x] Wolf of the week
+    - [x] chosen by president
+    - [x] cool-down of a month per person
+    - [ ] only via suggestion from someone in the society  
+- [x] Executive Committee
+    - [x] $100 max
+    - [x] report back to officer crew soonish
+    - [x] report to society meeting
+    - [x] must be unanimous vote
+    - [x] immediate need
+    - [ ] more limitations?
+    - [ ] officer crew approve afterwards?
+- [x] swearing in top 3
+    - [x] graduating senior officiate
+- [x] freshman oath
+    - [ ] exact wording in constitution
+    - [ ] blueprint for constitution?
+    - [ ] seagulls x3 our size?
+- [x] kill the cheerleaders
+    - [x] no cheerleaders allowed
+- [x] graduating members distinctive from honorary 
+    - [ ] graduate member vs alumni member vs graduated member
+        - [x] graduated member
+- [x] json file
+    - 
